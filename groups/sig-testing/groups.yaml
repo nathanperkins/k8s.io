@@ -181,6 +181,7 @@ groups:
     - chaodai@google.com
     - colew@google.com
     - mpherman@google.com
+    - nathanperkins@google.com
     - slchase@google.com
     # sig-testing leads
     # - amerai@google.com # already part of test-infra-oncall
